@@ -1,0 +1,104 @@
+﻿body {
+    background-color: white;
+}
+
+.galeria
+{
+    margin:10px 0;
+    padding:0;
+    width:100px;
+    height:100px;
+    border:1px solid silver;
+    background:white;
+
+}
+.galeria img 
+    {
+        transition-duration: 0.4s;
+        margin: 0 auto;
+        display: block;
+    }
+
+.galeria img:hover 
+    {
+        transform: scale(3.3);
+
+    }
+.center 
+{
+    text-align: center;
+}
+
+.left {
+    text-align: left;
+    color: black;
+    font-family: Courier New;
+    font-size: 28px;
+}
+.font
+{
+  font-family:Arial, Helvetica, sans-serif;
+  color:red;
+
+}
+
+h3:hover {
+    
+    color: red;
+}
+
+a:visited {
+    color: blue;
+}
+table, td, th 
+{
+    border: 1px solid gray;
+}
+
+#pojemnik {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#naglowek {
+    color: white;
+    padding: 15px;
+    background-color: black;
+
+}
+
+#kol_lewa {
+    float: left;
+    width: 120px;
+    min-height: 620px;
+    color: white;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+#content {
+    float: left;
+    min-height: 650px;
+    width: 660px;
+    color: black;
+    background-color:lightskyblue;
+
+}
+
+
+#kol_prawa {
+    float: left;
+    width: 180px;
+    min-height: 628px;
+    color: black;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+#footer {
+    clear: both;
+    color: white;
+    padding: 10px;
+    background-color: black;
+}

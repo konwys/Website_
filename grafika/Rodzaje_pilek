@@ -1,0 +1,45 @@
+﻿<!DOCTYPE HTML>
+<html lang="pl-PL">
+<head>
+    <title>Moje hobby</title>
+    <meta name="description" content="Koszykowka-moje hobby" />
+    <meta name="keywords" content="NBA,Finals,Champions">
+    <meta charset="UTF-8" />
+    <meta name="author" content="Konrad Wyszynski">
+    <link rel="Stylesheet" href="projekt.css" type="text/css" />
+
+</head>
+<body>
+    <div id="pojemnik">
+        <div id="naglowek">
+            <h2 class="center">Moje hobby - koszykówka</h2>
+        </div>
+        <div id="kol_lewa">
+
+        </div>
+
+        <div id="content">
+
+            <h1 class="center">MENU</h1>
+            </br>
+            </br>
+            </br>
+            </br>
+            <ul>
+
+                <li><ahref ="oct.htm"><h3 class="left">RODZAJE PIŁEK</h3></a></li>
+                <li><a href="oct.htm"><h3 class="left">SPIS DRUŻYN</h3></a></li>
+                <li><a href="oct.htm"><h3 class="left">NAJLEPSZE LIGI</h3></a></li>
+
+            </ul>
+
+        </div>
+        <div id="kol_prawa">
+
+        </div>
+        <div id="footer">
+            <h4 class="center">Moje hobby-koszykówka &copy; Wszystkie prawa zastrzeżone</h4>
+        </div>
+    </div>
+</body>
+</html>
